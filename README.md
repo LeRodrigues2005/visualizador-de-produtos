@@ -1,6 +1,6 @@
 ## Introdução
 
-Este projeto foi feito interamente em C#, utilizando a IDE _Visual Studio._
+Este projeto foi feito interamente em **C#**, utilizando a IDE ***Visual Studio***.
 
 **Template:** Windows Forms App (.NET)
 
@@ -12,7 +12,7 @@ O código principal está no arquivo ***Form1.cs***.
 
 ## Rodando o programa
 
-Para que o programa funcione corretamente, você deve <u>mudar a localização dos arquivos de imagem</u> para que se adeque a sua configuração. (Tem apenas dois locais do código que utiliza a lcoalização das imagens.)
+Para que o programa funcione corretamente, você deve <u>mudar a localização dos arquivos de imagem</u> para que se adeque a sua configuração. (Tem apenas dois locais do código que utiliza a localização das imagens.)
 
 Depois de ter ajustado isso, basta rodar o programa pressionando ```Ctrl + F5``` ou ***start***.
 
