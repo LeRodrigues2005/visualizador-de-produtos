@@ -1,4 +1,4 @@
-## Introdução
+# Introdução
 
 Este projeto foi feito interamente em **C#**, utilizando a IDE ***Visual Studio***.
 
@@ -10,7 +10,7 @@ O design foi feito utilizando as _Windows Forms_ da Toolbox:
 
 O código principal está no arquivo ***Form1.cs***.
 
-## Rodando o programa
+# Rodando o programa
 
 Para que o programa funcione corretamente, você deve <u>mudar a localização dos arquivos de imagem</u> para que se adeque a sua configuração. (Tem apenas dois locais do código que utiliza a localização das imagens.)
 
