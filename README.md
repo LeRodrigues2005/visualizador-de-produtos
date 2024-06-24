@@ -2,7 +2,7 @@
 
 Este projeto foi feito interamente em **C#**, utilizando a IDE ***Visual Studio***.
 
-**Template:** Windows Forms App (.NET)
+**Template:** _Windows Forms App (.NET)_.
 
 O design foi feito utilizando as _Windows Forms_ da Toolbox:
 
