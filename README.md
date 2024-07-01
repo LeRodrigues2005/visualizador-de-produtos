@@ -4,7 +4,7 @@ Este projeto foi feito interamente em **C#**, utilizando a IDE ***Visual Studio*
 
 **Template:** _Windows Forms App (.NET)_.
 
-O design foi feito utilizando as _Windows Forms_ da Toolbox:
+O design do formulário foi feito utilizando as _Windows Forms_ da Toolbox, e a logotipo baixei gratuitamente do site https://www.pngwing.com.
 
 ![image](https://github.com/LeRodrigues2005/visualizador-de-produtos/assets/97632543/d808f1fa-98a0-4aaf-ab07-1e519b2982cf)
 
