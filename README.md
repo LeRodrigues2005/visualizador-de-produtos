@@ -1,10 +1,10 @@
 # Introdução
 
-Este projeto foi desenvolvido inteiramente em C# utilizando a IDE Visual Studio.
+Este projeto foi desenvolvido inteiramente em C# utilizando a IDE <a href="https://visualstudio.microsoft.com/pt-br/">Visual Studio</a>.
 
-Template Utilizado: Windows Forms App (.NET).
+**Template Utilizado:** _Windows Forms App (.NET)_
 
-O design do formulário foi criado com as Windows Forms da Toolbox, e o logotipo foi baixado gratuitamente do site <a href="https://www.pngwing.com">PNG Wing.</a>.
+O design do formulário foi criado com as _Windows Forms_ da Toolbox, e o logotipo foi baixado gratuitamente do site <a href="https://www.pngwing.com">PNG Wing.</a>.
 
 ![image](https://github.com/LeRodrigues2005/visualizador-de-produtos/assets/97632543/d808f1fa-98a0-4aaf-ab07-1e519b2982cf)
 
