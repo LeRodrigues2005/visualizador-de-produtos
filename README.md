@@ -18,10 +18,8 @@ Depois de ter ajustado isso, basta rodar o programa pressionando ```Ctrl + F5```
 
 Uma janela interativa deve aparecer, sendo possível selecionar dentre as opções disponíveis e ver cada imagem conforme a opção selecionada.
 
-### Obs:
+### Informações adicionais
 
 Este código pode ser uma base para diversos tipos de projetos! C# é realmente uma linguagem extremamente **versátil** e **poderosa**. 
 
-- Se gostou, siga-me no **LinkedIn** para não perder conteúdos desse tipo!
 
---------- https://www.linkedin.com/in/letícia-rodrigues-a75134254/ ---------
